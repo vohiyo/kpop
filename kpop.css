@@ -231,7 +231,7 @@ background: #c42e3b;
 /***************/
 
 /* VOHIYO */
-[data-cid^="3765403"].cm .msg .from .un, #user-lists .list .user.role-manager.id-3765403 .name
+[data-cid^="3765403"].cm .msg .from .un, #user-lists .list .user.role-host.id-3765403 .name
 {
         
         color: rgb(0, 0, 0) !important;
