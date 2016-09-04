@@ -1,7 +1,7 @@
 {
     "room":                     "K-POP",
     "author":                   "Vohiyo",
-    "icon":                     "https://upload.wikimedia.org/wikipedia/commons/2/2e/TWICE_Logo.jpg",
+    "icon":                     "https://66.media.tumblr.com/a94f9466c66751fca6ee74d0f28abf0c/tumblr_o7vqt3to8s1vn28kao3_250.png",
     "css":                      "https://raw.githubusercontent.com/vohiyo/kpop/gh-pages/kpop.css",
     "rules": {
         "allowAutorespond":     true,
