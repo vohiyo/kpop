@@ -1,7 +1,7 @@
 {
     "room":                     "KPOP",
     "author":                   "Vohiyo",
-    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
+    "icon":                     null,
     "css":                      "https://raw.githubusercontent.com/vohiyo/kpop/gh-pages/kpop.css",
     "rules": {
         "allowAutorespond":     true,
