@@ -6,7 +6,7 @@
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
-        "allowAutojoin":        false,
+        "allowAutojoin":        true,
         "allowAutograb":        true,
         "allowSmartVote":       true,
         "allowEmotes":          true,
@@ -14,9 +14,9 @@
         "forceSmartVote":       false
     },
     "ccc": {
-        "admin":                "#42A5DC",
-        "ambassador":           "#84B423",
-        "host":                 "#FF9B00",
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 null,
         "cohost":               "#F3508F",
         "manager":              "#F3508F",
         "bouncer":              "#F3508F",
