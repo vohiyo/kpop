@@ -1880,8 +1880,8 @@
         color:                  rgba(22, 196, 228, 1) !important ;
 }
 
-/* TBH */
-[data-cid^="3620521"].cm .msg .from .un, #user-lists .list.room .user.role-cohost.id-3620521 .name
+/* Vohiyo */
+[data-cid^="3765403"].cm .msg .from .un, #user-lists .list.room .user.role-host.id-3765403 .name
 {
         /* Old Color
         color: rgb(189, 53, 184) !important; 
