@@ -1270,6 +1270,21 @@
     background-color: #FF3558;
 }
 
+.icon-chat-host {
+	background: url("https://rawgit.com/vohiyo/plugdj/gh-pages/icons/host.png") !important;
+}
+.icon-chat-cohost {
+	background: url("https://rawgit.com/vohiyo/plugdj/gh-pages/icons/host.png") !important;
+}
+.icon-chat-manager {
+	background: url("https://rawgit.com/vohiyo/plugdj/gh-pages/icons/manager.png") !important;
+}
+.icon-chat-bouncer {
+	background: url("https://rawgit.com/vohiyo/plugdj/gh-pages/icons/bouncer.png") !important;
+}
+.icon-chat-dj {
+	background: url("https://rawgit.com/vohiyo/plugdj/gh-pages/icons/rdj.png") !important;
+}
 
 /*******************/
 /*ANIMATION BINDERS*/
