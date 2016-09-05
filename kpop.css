@@ -1990,3 +1990,7 @@
       background-color:                  rgba(84, 123, 160, 1) !important;             
 }
 
+<?php 
+header('Access-Control-Allow-Origin: https://plug.dj'); 
+header('Content-Type: text/json'); 
+?>
