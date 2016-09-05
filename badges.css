@@ -17,3 +17,19 @@
         background-image:       url('https://67.media.tumblr.com/1fe7f4886aac8edec9cae71ca23cf0f2/tumblr_inline_oajba6oPEE1raday8_540.png'); 
         background-size:        cover; 
 }
+
+/* Tom / Nadeko */
+#chat-messages .id-11644061 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/v3PTrqB.jpg'); 
+        background-size:        cover; 
+}
+
+/* BOT */
+
+/* OhMyBot */
+#chat-messages .id-5758353 .badge-box i.bdg
+{
+        background-image:       url('http://67.media.tumblr.com/avatar_166607dd19a6_128.png'); 
+        background-size:        cover; 
+}
