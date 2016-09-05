@@ -16,7 +16,7 @@
     "ccc": {
         "admin":                null,
         "ambassador":           null,
-        "host":                 "#F3508F",
+        "host":                 null,
         "cohost":               "#F3508F",
         "manager":              "#F3508F",
         "bouncer":              "#F3508F",
@@ -41,6 +41,7 @@
     },
     "autocomplete": [],
     "emotes": {
-        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png",
+        "yooa": "http://img15.deviantart.net/59a6/i/2016/143/c/8/oh_my_girl___yooa_2_by_blxkkstarr-da3inp3.png"
     }
 }
