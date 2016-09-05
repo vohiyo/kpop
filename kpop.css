@@ -1246,6 +1246,31 @@
         background:             rgba(148, 94, 242, 0.2) !important;
 }
 
+.icon-chat-host + span {
+    color: #FF3558 !important;
+}
+
+.icon-chat-cohost + span {
+    color: #FF3558 !important;
+}
+
+.icon-chat-manager + span {
+    color: #0191ff !important;
+}
+
+.icon-chat-bouncer + span {
+    color: #01e1ff !important;
+}
+
+.icon-chat-dj + span {
+    color: #89BE6C !important;
+}
+
+.drag-media-box {
+    background-color: #FF3558;
+}
+
+
 /*******************/
 /*ANIMATION BINDERS*/
 /*******************/
