@@ -1895,6 +1895,15 @@
 /*NAME STYLINGS*/
 /***************/
 
+/* Jeroen */
+[data-cid^="4346793"].cm .msg .from .un, #user-lists .list.room .user.role-cohost.id-4346793 .name
+{
+        
+        color: rgb(0, 0, 0) !important;
+        text-shadow: 0px 0px 1px #ff0033, 0px 0px 5px #ff0033, 2px 2px 10px #ff0033 !important;
+
+}
+
 /* Vohiyo */
 [data-cid^="3765403"].cm .msg .from .un, #user-lists .list.room .user.role-host.id-3765403 .name
 {
