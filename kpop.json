@@ -16,15 +16,15 @@
     "ccc": {
         "admin":                null,
         "ambassador":           null,
-        "host":                 null,
-        "cohost":               "#F3508F",
-        "manager":              "#F3508F",
-        "bouncer":              "#F3508F",
-        "rdj":                  "#5DB4FF",
-        "subscriber":           "#A1A6B3",
-        "silversubscriber":     "#A1A6B3",
-        "friend":               "#B35D88",
-        "user":                 "#8B92A3"
+        "host":                 #FF3558,
+        "cohost":               #FF3558,
+        "manager":              "#0191ff",
+        "bouncer":              "#01e1ff",
+        "rdj":                  "#89BE6C",
+        "subscriber":           null,
+        "silversubscriber":     null,
+        "friend":               null,
+        "user":                 null
     },
     "images": {
         "background":           null,
