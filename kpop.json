@@ -2,7 +2,7 @@
     "room":                     "KPOP",
     "author":                   "Vohiyo",
     "icon":                     null,
-    "css":                      "https://rawgit.com/vohiyo/kpop/gh-pages/kpop.css",
+    "css":                      "https://rawgit.com/vohiyo/plugdj/gh-pages/kpop.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
