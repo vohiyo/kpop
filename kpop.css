@@ -1898,7 +1898,7 @@
 /* Tom */
 [data-cid^="11644061"].cm .msg .from .un, #user-lists .list.room .user.role-bouncer.id-11644061 .name {
         color: rgb(0, 0, 0) !important;
-        text-shadow: 0px 0px 1px #063DC9, 0px 0px 5px #030E82, 2px 2px 10px #063DC9 !important;
+        text-shadow: 0px 0px 1px #0191ff, 0px 0px 5px #0191ff, 2px 2px 10px #0191ff !important;
 }
 
 
