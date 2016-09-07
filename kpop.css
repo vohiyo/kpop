@@ -1921,6 +1921,33 @@
 
 }
 
+#chat-messages .id-3765403 .badge-box i.bdg
+{
+        background-image:       url('http://i99.beon.ru/45.media.tumblr.com/128c82669e9cc59f224e8c333ce2c8ac/tumblr_o4tyjdJ3aA1qg5nyao4_400.gif');
+        background-size:        cover;
+}
+#chat-messages .id-3765403 
+{
+       /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
+        background: rgba(55, 168, 175, 0.33) !important;
+        border-left: 3px solid #8230FF;
+}
+[data-cid^="3765403"] .msg .from .un 
+{
+        color: #d61ed6 !important;
+}
+#chat-messages .id-3765403 .badge-box 
+{
+        background:none;
+}
+#chat .moderation {
+       /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
+        background: rgba(55, 168, 175, 0.33) !important;
+        border-left: 3px solid #8230FF;
+}
+#chat-messages .id-3765403 .icon {
+    display: none;
+}
 
 /* Non - Staff */
 
