@@ -1930,7 +1930,7 @@
 {
        /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
         background: rgba(55, 168, 175, 0.33) !important;
-        border-left: 3px solid #8230FF;
+        border-left: 3px solid #d61ed6;
 }
 [data-cid^="3765403"] .msg .from .un 
 {
@@ -1943,7 +1943,7 @@
 #chat .moderation {
        /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
         background: rgba(55, 168, 175, 0.33) !important;
-        border-left: 3px solid #8230FF;
+        border-left: 3px solid #d61ed6;
 }
 #chat-messages .id-3765403 .icon {
     display: none;
